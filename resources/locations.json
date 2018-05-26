@@ -1,0 +1,330 @@
+{
+    "locations" : [
+        {
+            "key" : "global",
+            "name" : "Global",
+            "latitude" : -90,
+            "longitude" : -180,
+            "dataWidth" : 360,
+
+            "outputs" : [
+                {
+                    "key" : "2048",
+                    "width" : 2048,
+                    "height" : 1024
+                },
+                {
+                    "key" : "1024",
+                    "width" : 1024,
+                    "height" : 512
+                },
+                {
+                    "key" : "256",
+                    "width" : 256,
+                    "height" : 128
+                }
+            ]
+        },
+        {
+            "key" : "us",
+            "name" : "North America",
+            "latitude" : 16.5,
+            "longitude" : -144,
+            "dataWidth" : 90,
+
+            "outputs" : [
+                {
+                    "key" : "1024",
+                    "width" : 1024,
+                    "height" : 768
+                },
+                {
+                    "key" : "256",
+                    "width" : 256,
+                    "height" : 192
+                }
+            ]
+        },
+        {
+            "key" : "us_west",
+            "name" : "US West",
+            "latitude" : 20,
+            "longitude" : -145,
+            "dataWidth" : 43,
+
+            "outputs" : [
+                {
+                    "key" : "1024",
+                    "width" : 1024,
+                    "height" : 768
+                },
+                {
+                    "key" : "256",
+                    "width" : 256,
+                    "height" : 192
+                }
+            ]
+        },
+        {
+            "key" : "us_east",
+            "name" : "US East",
+            "latitude" : 20,
+            "longitude" : -102,
+            "dataWidth" : 43,
+
+            "outputs" : [
+                {
+                    "key" : "1024",
+                    "width" : 1024,
+                    "height" : 768
+                },
+                {
+                    "key" : "256",
+                    "width" : 256,
+                    "height" : 192
+                }
+            ]
+        },
+        {
+            "key" : "europe",
+            "name" : "Europe",
+            "latitude" : 30,
+            "longitude" : -26,
+            "dataWidth" : 63,
+
+            "outputs" : [
+                {
+                    "key" : "1024",
+                    "width" : 1024,
+                    "height" : 768
+                },
+                {
+                    "key" : "256",
+                    "width" : 256,
+                    "height" : 192
+                }
+            ]
+        },
+        {
+            "key" : "uk",
+            "name" : "United Kingdom",
+            "latitude" : 45,
+            "longitude" : -16,
+            "dataWidth" : 25,
+
+            "outputs" : [
+                {
+                    "key" : "1024",
+                    "width" : 1024,
+                    "height" : 768
+                },
+                {
+                    "key" : "256",
+                    "width" : 256,
+                    "height" : 192
+                }
+            ]
+        },
+        {
+            "key" : "sa",
+            "name" : "South America",
+            "latitude" : -60,
+            "longitude" : -118,
+            "dataWidth" : 110,
+
+            "outputs" : [
+                {
+                    "key" : "1024",
+                    "width" : 1024,
+                    "height" : 768
+                },
+                {
+                    "key" : "256",
+                    "width" : 256,
+                    "height" : 192
+                }
+            ]
+        },
+        {
+            "key" : "africa",
+            "name" : "Africa",
+            "latitude" : -40,
+            "longitude" : -40,
+            "dataWidth" : 120,
+
+            "outputs" : [
+                {
+                    "key" : "1024",
+                    "width" : 1024,
+                    "height" : 768
+                },
+                {
+                    "key" : "256",
+                    "width" : 256,
+                    "height" : 192
+                }
+            ]
+        },
+        {
+            "key" : "east_asia",
+            "name" : "East Asia",
+            "latitude" : -15,
+            "longitude" : 72,
+            "dataWidth" : 90,
+
+            "outputs" : [
+                {
+                    "key" : "1024",
+                    "width" : 1024,
+                    "height" : 768
+                },
+                {
+                    "key" : "256",
+                    "width" : 256,
+                    "height" : 192
+                }
+            ]
+        },
+        {
+            "key" : "north_asia",
+            "name" : "North Asia",
+            "latitude" : 20,
+            "longitude" : 90,
+            "dataWidth" : 95,
+
+            "outputs" : [
+                {
+                    "key" : "1024",
+                    "width" : 1024,
+                    "height" : 768
+                },
+                {
+                    "key" : "256",
+                    "width" : 256,
+                    "height" : 192
+                }
+            ]
+        },
+        {
+            "key" : "south_asia",
+            "name" : "South Asia",
+            "latitude" : -5,
+            "longitude" : 33,
+            "dataWidth" : 80,
+
+            "outputs" : [
+                {
+                    "key" : "1024",
+                    "width" : 1024,
+                    "height" : 768
+                },
+                {
+                    "key" : "256",
+                    "width" : 256,
+                    "height" : 192
+                }
+            ]
+        },
+        {
+            "key" : "australia",
+            "name" : "Australia",
+            "latitude" : -50,
+            "longitude" : 105,
+            "dataWidth" : 60,
+
+            "outputs" : [
+                {
+                    "key" : "1024",
+                    "width" : 1024,
+                    "height" : 768
+                },
+                {
+                    "key" : "256",
+                    "width" : 256,
+                    "height" : 192
+                }
+            ]
+        },
+        {
+            "key" : "nz",
+            "name" : "New Zealand",
+            "latitude" : -55,
+            "longitude" : 155,
+            "dataWidth" : 40,
+
+            "outputs" : [
+                {
+                    "key" : "1024",
+                    "width" : 1024,
+                    "height" : 768
+                },
+                {
+                    "key" : "256",
+                    "width" : 256,
+                    "height" : 192
+                }
+            ]
+        },
+        {
+            "key" : "pacific",
+            "name" : "Pacific",
+            "latitude" : -50,
+            "longitude" : 135,
+            "dataWidth" : 133,
+
+            "outputs" : [
+                {
+                    "key" : "1024",
+                    "width" : 1024,
+                    "height" : 768
+                },
+                {
+                    "key" : "256",
+                    "width" : 256,
+                    "height" : 192
+                }
+            ]
+        },
+        {
+            "key" : "atlantic",
+            "name" : "Atlantic",
+            "latitude" : 13,
+            "longitude" : -90,
+            "dataWidth" : 95,
+
+            "outputs" : [
+                {
+                    "key" : "1024",
+                    "width" : 1024,
+                    "height" : 768
+                },
+                {
+                    "key" : "256",
+                    "width" : 256,
+                    "height" : 192
+                }
+            ]
+        },
+        {
+            "key" : "nz_east",
+            "name" : "New Zealand East",
+            "hidden" : true,
+            "latitude" : -60,
+            "longitude" : 160,
+            "dataWidth" : 50,
+
+            "outputs" : [
+                {
+                    "key" : "1024",
+                    "width" : 1024,
+                    "height" : 768
+                },
+                {
+                    "key" : "256",
+                    "width" : 256,
+                    "height" : 192
+                }
+            ]
+        }
+    ]
+}
